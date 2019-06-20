@@ -1,0 +1,40 @@
+.container{
+	max-width: 1450px;
+	width: 100%;
+	margin: 50px auto;
+
+
+}
+.box1{
+
+	background-image: url(https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	height: 350px;
+	width: 350px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+.box2{
+	background-image: url(https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg);
+	height: 350px;
+	width: 350px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+.box3{
+	background-image: url(https://www.w3schools.com/w3css/img_lights.jpg);
+	height: 350px;
+	width: 350px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+.box4{
+	background-image: url(https://cdn.pixabay.com/photo/2016/09/01/10/23/image-1635747_960_720.jpg);
+	height: 350px;
+	width: 350px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
